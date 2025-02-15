@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "qr-code-gen-for-word-documents-main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
